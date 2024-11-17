@@ -1,0 +1,83 @@
+
+
+h1{
+	text-align: center;
+	font-size: 70px;
+	color: green;
+	border-radius: 50px;
+	border: solid 10px;
+	border-color: white;
+	background-color: black;
+}
+
+.titreHTML1{
+	font-size: 40px;
+	text-align: center;
+	font-size: 70px;
+	color: green;
+	border-radius: 50px;
+	border: solid 10px;
+	border-color: white;
+	background-color: black;
+}
+
+a{
+	font-size: 50px; 
+	color: #9b59b6;
+	background-color: #d5f5e3;
+}
+
+body{
+  background-image: url('deco/wallpaper.jpg');
+  background-size: cover; /* Pour que l'image couvre tout l'écran */
+  background-position: center; /* Centrer l'image */
+}
+
+#decor1{
+position: absolute;
+background-color: blue;
+height: 630px;
+width: 590px;
+border: solid yellow 12px;
+border-radius: 80px;
+z-index: 1;
+}
+
+#buttonall{
+position: relative;
+z-index: 2;
+}
+
+button{
+	height: 150px;
+	width: 150px;
+	background-color: grey;
+}
+
+button img{
+	text-align: center;
+	height: 150px;
+	width: auto
+}
+
+.operation{
+	text-align: center;
+	background-color: white;
+}
+
+#resultat{
+	text-align: center;
+	background-color: grey;
+	height: 100px;
+	width: 550px;
+	font-size: 40px;
+	justify-content: center;
+	border-radius: 50px;
+}
+
+/* page HTML2 */
+
+#time{
+font-size: 40px;
+color: white;	
+}
